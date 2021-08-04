@@ -1,0 +1,30 @@
+.heading{
+    width:100%;
+    font-size: 20px;
+    margin-top: 0px;
+    background-color: darkgrey;
+    box-shadow:5px 5px 5px aqua;
+}
+
+.heading:hover,.heading_div:hover{
+    background-color: darkorange;
+    color:aqua;
+}
+
+.heading_div2:hover{
+    background-color:lightseagreen ;
+}
+
+.heading_div{
+    float:none;
+    background-color: grey;
+    padding: 10px;
+    color:darkgreen;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px aqua;
+}
+
+.heading_div2{
+    font-size: 20px;
+    border-radius: 10px;
+}
